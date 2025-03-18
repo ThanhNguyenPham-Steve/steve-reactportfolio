@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/steve-reactportfolio/static/css/main.13c89c9a.css",
-    "main.js": "/steve-reactportfolio/static/js/main.33866c41.js",
-    "static/js/453.32bc8d24.chunk.js": "/steve-reactportfolio/static/js/453.32bc8d24.chunk.js",
-    "static/media/sc.png": "/steve-reactportfolio/static/media/sc.114c15de4d34363f70c1.png",
-    "static/media/gm.png": "/steve-reactportfolio/static/media/gm.7c7e28706d39ee008cfe.png",
-    "static/media/helvetica-neu.ttf": "/steve-reactportfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff": "/steve-reactportfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
-    "static/media/LaBelleAurore.woff2": "/steve-reactportfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff": "/steve-reactportfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
-    "static/media/CoolveticaRg-Regular.woff2": "/steve-reactportfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/steve-reactportfolio/index.html",
-    "main.13c89c9a.css.map": "/steve-reactportfolio/static/css/main.13c89c9a.css.map",
-    "main.33866c41.js.map": "/steve-reactportfolio/static/js/main.33866c41.js.map",
-    "453.32bc8d24.chunk.js.map": "/steve-reactportfolio/static/js/453.32bc8d24.chunk.js.map"
+    "main.css": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/static/css/main.b97034a6.css",
+    "main.js": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/static/js/main.573036b4.js",
+    "static/js/453.32bc8d24.chunk.js": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/static/js/453.32bc8d24.chunk.js",
+    "static/media/sc.png": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/static/media/sc.114c15de4d34363f70c1.png",
+    "static/media/gm.png": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/static/media/gm.7c7e28706d39ee008cfe.png",
+    "static/media/helvetica-neu.ttf": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/index.html",
+    "main.b97034a6.css.map": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/static/css/main.b97034a6.css.map",
+    "main.573036b4.js.map": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/static/js/main.573036b4.js.map",
+    "453.32bc8d24.chunk.js.map": "/ThanhNguyenPham-Steve.github.io/steve-reactportfolio.git/static/js/453.32bc8d24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13c89c9a.css",
-    "static/js/main.33866c41.js"
+    "static/css/main.b97034a6.css",
+    "static/js/main.573036b4.js"
   ]
 }
